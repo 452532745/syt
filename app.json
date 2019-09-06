@@ -1,0 +1,497 @@
+{
+  "errno": 0,
+  "tabbars": [
+    {
+      "name": "home",
+      "title": "首页",
+      "path": "/home",
+      "icon": {
+        "normal": "http://4g.lovelesi.com/uploads/allimg/img/a01_08.png",
+        "active": "http://4g.lovelesi.com/uploads/allimg/img/a01_02_08.png"
+      }
+    },
+    {
+      "name": "classify",
+      "title": "分类",
+      "path": "/classify",
+      "icon": {
+        "normal": "http://4g.lovelesi.com/uploads/allimg/img/a01_10.png",
+        "active": "http://4g.lovelesi.com/uploads/allimg/img/a01_02_10.png"
+      }
+    },
+    {
+      "name": "login",
+      "title": "收银台",
+      "path": "/login",
+      "icon": {
+        "normal": "http://4g.lovelesi.com/uploads/allimg/img/a01_02_12.png",
+        "active": "http://4g.lovelesi.com/uploads/allimg/img/a01_12.png"
+      }
+    },
+    {
+      "name": "cart",
+      "title": "购物车",
+      "path": "/cart",
+      "icon": {
+        "normal": "http://4g.lovelesi.com/uploads/allimg/img/a01_14.png",
+        "active": "http://4g.lovelesi.com/uploads/allimg/img/a01_02_14.png"
+      }
+    },
+    {
+      "name": "my",
+      "title": "个人中心",
+      "path": "/my",
+      "icon": {
+        "normal": "http://4g.lovelesi.com/uploads/allimg/img/a01_16.png",
+        "active": "http://4g.lovelesi.com/uploads/allimg/img/a01_02_16.png"
+      }
+    }
+  ],
+  "sidebar": [
+    {
+      "name": "message",
+      "title": "消息中心",
+      "path": "/message/msg",
+      "avatar": "http://4g.lovelesi.com/uploads/allimg/img/sidebar1.png"
+    },
+    {
+      "name": "wallet",
+      "title": "我的钱包",
+      "path": "/wallet",
+      "avatar": "http://4g.lovelesi.com/uploads/allimg/img/sidebar2.png"
+    },
+    {
+      "name": "user",
+      "title": "我的用户",
+      "path": "/user",
+      "avatar": "http://4g.lovelesi.com/uploads/allimg/img/sidebar3.png"
+    },
+    {
+      "name": "password",
+      "title": "密码设置",
+      "path": "/password",
+      "avatar": "http://4g.lovelesi.com/uploads/allimg/img/sidebar4.png"
+    },
+    {
+      "name": "ptp",
+      "title": "推广赚钱",
+      "path": "/ptp",
+      "avatar": "http://4g.lovelesi.com/uploads/allimg/img/sidebar5.png"
+    },
+    {
+      "name": "instructions",
+      "title": "使用说明",
+      "path": "/instructions",
+      "avatar": "http://4g.lovelesi.com/uploads/allimg/img/sidebar6.png"
+    },
+    {
+      "name": "service",
+      "title": "联系客服",
+      "path": "/service",
+      "avatar": "http://4g.lovelesi.com/uploads/allimg/img/sidebar7.png"
+    },
+    {
+      "name": "about",
+      "title": "关于立德信",
+      "path": "/about",
+      "avatar": "http://4g.lovelesi.com/uploads/allimg/img/sidebar8.png"
+    },
+    {
+      "name": "test",
+      "title": "测试",
+      "avatar": "http://4g.lovelesi.com/uploads/allimg/img/sidebar8.png"
+    },
+    {
+      "name": "test",
+      "title": "测试2",
+      "avatar": "http://4g.lovelesi.com/uploads/allimg/img/sidebar8.png"
+    }
+  ],
+  "message": {
+    "messageCount": 29,
+    "messageList": [
+      {
+        "id": 1,
+        "classify": "消息",
+        "title": "深圳立德信消息中心标题",
+        "time": "2019-07-25",
+        "desc": "深圳立德信消息中心内容介绍深圳立德信消息中心."
+      },
+      {
+        "id": 2,
+        "classify": "消息",
+        "title": "深圳立德信消息中心标题",
+        "time": "2019-07-25",
+        "desc": "深圳立德信消息中心内容介绍深圳立德信消息中心."
+      },
+      {
+        "id": 3,
+        "classify": "消息",
+        "title": "深圳立德信消息中心标题",
+        "time": "2019-07-25",
+        "desc": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 4,
+        "classify": "小贴士",
+        "title": "小贴士消息中心标题",
+        "time": "2019-07-25",
+        "desc": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 5,
+        "classify": "小贴士",
+        "title": "小贴士消息中心标题",
+        "time": "2019-07-25",
+        "desc": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 6,
+        "classify": "小贴士",
+        "title": "小贴士消息中心标题",
+        "time": "2019-07-25",
+        "desc": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 7,
+        "classify": "小贴士",
+        "title": "小贴士消息中心标题",
+        "time": "2019-07-25",
+        "desc": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 8,
+        "classify": "小贴士",
+        "title": "小贴士消息中心标题",
+        "time": "2019-07-25",
+        "desc": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 9,
+        "classify": "小贴士",
+        "title": "小贴士消息中心标题",
+        "time": "2019-07-25",
+        "desc": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 10,
+        "classify": "小贴士",
+        "title": "小贴士消息中心标题",
+        "time": "2019-07-25",
+        "desc": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 11,
+        "classify": "小贴士",
+        "title": "小贴士消息中心标题",
+        "time": "2019-07-25",
+        "desc": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 12,
+        "classify": "小贴士",
+        "title": "小贴士消息中心标题",
+        "time": "2019-07-25",
+        "desc": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 13,
+        "classify": "小贴士",
+        "title": "小贴士消息中心标题",
+        "time": "2019-07-25",
+        "desc": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 14,
+        "classify": "小贴士",
+        "title": "小贴士消息中心标题",
+        "time": "2019-07-25",
+        "desc": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 15,
+        "classify": "小贴士",
+        "title": "小贴士消息中心标题",
+        "time": "2019-07-25",
+        "desc": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 16,
+        "classify": "小贴士",
+        "title": "小贴士消息中心标题",
+        "time": "2019-07-25",
+        "desc": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 17,
+        "classify": "小贴士",
+        "title": "小贴士消息中心标题",
+        "time": "2019-07-25",
+        "desc": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 18,
+        "classify": "小贴士",
+        "title": "小贴士消息中心标题",
+        "time": "2019-07-25",
+        "desc": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      }
+    ],
+    "messageContent": [
+      {
+        "id": 1,
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.深圳立德信消息中心内容介绍深圳立德信消息中心.深圳立德信消息中心内容介绍深圳立德信消息中心.深圳立德信消息中心内容介绍深圳立德信消息中心.深圳立德信消息中心内容介绍深圳立德信消息中心.深圳立德信消息中心内容介绍深圳立德信消息中心.深圳立德信消息中心内容介绍深圳立德信消息中心.深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 2,
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 3,
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 4,
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 5,
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 6,
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 7,
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 8,
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 9,
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 10,
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 11,
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 12,
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 13,
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 14,
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 15,
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 16,
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 17,
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      },
+      {
+        "id": 18,
+        "content": "深圳立德信消息中心内容介绍深圳立德信消息中心.",
+        "author": "立德信"
+      }
+    ]
+  },
+  "user": {
+    "avatar": "http://4g.lovelesi.com/uploads/allimg/img/64x64.jpg",
+    "name": "张三",
+    "identity": "441584874541569",
+    "phone": "1354874511",
+    "level": "0",
+    "earnToday": "100.00",
+    "earnAll": "100.00",
+    "deposit": "50000.00",
+    "card": [
+      {
+        "id": "4367222233334448888",
+        "bank": "建设银行",
+        "address": "深圳建设银行南联分行",
+        "date": "05/28"
+      },
+      {
+        "id": "4367222233334441388",
+        "bank": "农业银行",
+        "address": "深圳农业银行南联分行",
+        "date": "02/23"
+      },
+      {
+        "id": "4367222233334441688",
+        "bank": "工商银行",
+        "address": "深圳工商银行南联分行",
+        "date": "07/29"
+      }
+    ],
+    "proceeds": [
+      {
+        "month": "2019年5月",
+        "proceedsItem": [
+          {
+            "name": "20190103158411254",
+            "time": "2019-05-28 23:25:36",
+            "amount": 100
+          },
+          {
+            "name": "20190103158411254",
+            "time": "2019-05-28 23:25:36",
+            "amount": 120
+          }
+        ]
+      },
+      {
+        "month": "2019年6月",
+        "proceedsItem": [
+          {
+            "name": "20190103158411254",
+            "time": "2019-06-28 23:25:36",
+            "amount": 110
+          },
+          {
+            "name": "20190103158411254",
+            "time": "2019-06-28 23:25:36",
+            "amount": 120
+          }
+        ]
+      },
+      {
+        "month": "2019年7月",
+        "proceedsItem": [
+          {
+            "name": "20190103158411254",
+            "time": "2019-07-28 23:25:36",
+            "amount": 110
+          },
+          {
+            "name": "20190103158411254",
+            "time": "2019-07-28 23:25:36",
+            "amount": 160
+          }
+        ]
+      },
+      {
+        "month": "2019年8月",
+        "proceedsItem": [
+          {
+            "name": "20190103158411254",
+            "time": "2019-08-28 23:25:36",
+            "amount": 110
+          },
+          {
+            "name": "20190103158411254",
+            "time": "2019-08-28 23:25:36",
+            "amount": 160
+          }
+        ]
+      }
+    ],
+    "mine": [
+      {
+        "person": "张三",
+        "level": "普通用户",
+        "its": "李四"
+      },
+      {
+        "person": "张三",
+        "level": "会员用户",
+        "its": "小明"
+      },
+      {
+        "person": "张三",
+        "level": "普通用户",
+        "its": "李四"
+      }
+    ]
+  },
+  "WeChatQrCode": "http://4g.lovelesi.com/uploads/allimg/img/f01_06.jpg",
+  "share": [
+    {
+      "name": "微信朋友",
+      "avatar": "http://4g.lovelesi.com/uploads/allimg/img/share_03.jpg",
+      "url": "微信朋友"
+    },
+    {
+      "name": "朋友圈",
+      "avatar": "http://4g.lovelesi.com/uploads/allimg/img/share_05.jpg",
+      "url": "朋友圈"
+    },
+    {
+      "name": "QQ",
+      "avatar": "http://4g.lovelesi.com/uploads/allimg/img/share_07.jpg",
+      "url": "QQ"
+    },
+    {
+      "name": "新浪微博",
+      "avatar": "http://4g.lovelesi.com/uploads/allimg/img/share_09.jpg",
+      "url": "新浪微博"
+    }
+  ]
+}

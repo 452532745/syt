@@ -1,0 +1,39 @@
+.clearfix {
+  display: inline-block;
+
+  &:after {
+    display: block;
+    content: '.';
+    height: 0;
+    line-height: 0;
+    clear: both;
+    visibility: hidden;
+  }
+}
+
+@font-face {
+  font-family: 'SourceHanSansCN-Regular';
+  src: url('../fonts/SourceHanSansCN-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-device-pixel-ratio: 1.5) {
+  .border-1px {
+    &::after {
+      transform: scaleY(0.7);
+    }
+  }
+}
+
+@media (-webkit-min-device-pixel-ratio: 2),(min-device-pixel-ratio: 2) {
+  .border-1px {
+    &::after {
+      transform: scaleY(0.5);
+    }
+  }
+}
+
+html {
+  font-family: 'SourceHanSansCN-Regular', Microsoft YaHei, Arial, Helvetica, Verdana, sans-serif;
+}
